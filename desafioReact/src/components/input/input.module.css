@@ -1,0 +1,9 @@
+.labelSalary{
+    font-size: 1rem;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+::placeholder{
+    color: black;
+}

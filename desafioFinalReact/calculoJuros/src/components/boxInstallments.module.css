@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: 140px;
+  box-shadow: 2px 2px 2px gray;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: rgb(219, 216, 216);
+}
+
+.index {
+  font-size: 1.5rem;
+  padding: 5px;
+  margin-top: 8%;
+  margin-left: 10px;
+}
+
+.total {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  margin: auto;
+}

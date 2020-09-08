@@ -1,0 +1,36 @@
+.flexDirection{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin-top: 5%;
+  }
+  
+  .baseInss{
+    width: 20%;
+  }
+  
+  .descontoInss{
+    width: 20%;
+    margin-left: 6.9%;
+    color: red;
+  }
+  
+  .baseIrpf{
+    width: 20%;
+    margin-left: 6.9%;
+  }
+  
+  .descontoIrpf{
+    width: 20%;
+    margin-left: 6.9%;
+    color: red;
+  }
+  
+  .salarioLiquido{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 5%;
+    color: cadetblue;
+    font-weight: bold;
+  }
+  
